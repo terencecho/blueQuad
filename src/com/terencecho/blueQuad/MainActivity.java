@@ -16,7 +16,7 @@ import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
   
 public class MainActivity extends Activity {
-  private static final String TAG = "bluetoothl";
+  private static final String TAG = "blueQuad";
     
   Button button1, button2;
   SeekBar brightness;
